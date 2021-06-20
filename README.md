@@ -1,5 +1,5 @@
 # AndroidTripGen
-Android generator of tripcodes for imageboards like syn-ch.org etc
+Android generator of tripcodes for imageboards like 2ch.hk, syn-ch.org etc
 
 Used this https://github.com/ChaosData/TripGen for getting tripcodes from passwrds
 
